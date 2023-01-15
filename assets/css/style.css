@@ -93,6 +93,7 @@ body{
 }
 .feature-title span{
     color: #131313;
+    font-weight: 700;
 }
 .feature-title strong{
     color: #FF900E;
@@ -401,6 +402,9 @@ body{
         font-weight: 700;
         font-size: 30px;
         line-height: 1;
+    }
+    .features-inner img {
+        width: 100%;
     }
     .hero-title {
         font-size: 30px;
